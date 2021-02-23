@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="786.0" prefWidth="1136.0" spacing="20.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.bach.FirstController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <children>
+      <AnchorPane prefHeight="737.0" prefWidth="1096.0" style="-fx-background-color: #350A01;">
+         <children>
+            <Label fx:id="I" layoutX="43.0" layoutY="100.0" prefHeight="46.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="S" layoutX="43.0" layoutY="475.0" prefHeight="234.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="K" layoutX="43.0" layoutY="166.0" prefHeight="46.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="L" layoutX="43.0" layoutY="235.0" prefHeight="46.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="M" layoutX="43.0" layoutY="308.0" prefHeight="46.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="N" layoutX="43.0" layoutY="381.0" prefHeight="46.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="J" layoutX="632.0" layoutY="100.0" prefHeight="46.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="T" layoutX="632.0" layoutY="475.0" prefHeight="234.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="O" layoutX="632.0" layoutY="166.0" prefHeight="46.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="P" layoutX="632.0" layoutY="235.0" prefHeight="46.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="Q" layoutX="632.0" layoutY="308.0" prefHeight="46.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="R" layoutX="632.0" layoutY="381.0" prefHeight="46.0" prefWidth="412.0" style="-fx-background-color: #FFFFFF;">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="U" layoutX="348.0" layoutY="14.0" prefHeight="46.0" prefWidth="355.0" textFill="WHITE">
+               <font>
+                  <Font size="33.0" />
+               </font></Label>
+            <Label fx:id="V" layoutX="506.0" layoutY="75.0" prefHeight="30.0" prefWidth="81.0" textFill="WHITE" />
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>
